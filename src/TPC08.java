@@ -1,0 +1,13 @@
+public class TPC08 {
+	public static void main(String[] args) {
+		int a = 30;
+		int b = 50;
+		int result = add(a, b);
+		System.out.println(result);
+	}
+	
+	public static int add(int a, int b) {
+		int sum = a + b;
+		return sum;
+	}
+}
