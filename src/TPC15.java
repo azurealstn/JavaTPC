@@ -25,7 +25,7 @@ public class TPC15 {
 		//getter가 필요없음
 		System.out.println(memberVO2.toString());
 		
-		System.out.println("================");
+		System.out.println("=================");
 		
 		//Object의 toString을 오버라이딩해서 재정의했기 때문에
 		//toString은 생략가능
